@@ -6,7 +6,7 @@
           <p class="text-sm text-gray-600">We never send you any spam</p>
         </div>
         <input class="bg-gray-200 py-2 pl-4 md:w-64" type="text" name="" id="" value="masayoshi@bwa.co.id">
-        <button type="submit" class="mt-4 ml-0 md:ml-6 text-white uppercase py-2 px-8 bg-one">subscribe</button>
+        <button type="submit" class="mt-4 md:mt-0 ml-0 md:ml-6 text-white uppercase py-2 px-8 bg-one">subscribe</button>
       </form>
       <div class="w-full md:w-4/12 px-4 md:pl-32 pt-24 md:pt-32 flex flex-col justify-start items-start">
         <img src="~assets/images/logo.png" class="mb-8">

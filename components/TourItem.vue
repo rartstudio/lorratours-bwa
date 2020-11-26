@@ -1,7 +1,7 @@
 <template>
     <div class="w-full mb-48 flex flex-wrap justify-between items-center">
         <div class="mb-8 md:mb-0 px-12 md:px-0 w-full md:w-3/12 transform cursor-pointer transition-all duration-300 hover:scale-110">
-          <div class="media relative">
+          <div class="media relative md:inline-block ">
             <img src="~assets/images/image 7.png" alt="" class="relative z-10">
             <div class="bg-gradient-to-t from-black via-transparent to-transparent opacity-75 absolute inset-0 z-20"></div>
             <div class="px-4 py-4 absolute bottom-0 z-30">
@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="mb-8 md:mb-0 px-12 md:px-0 w-full md:w-3/12 transform cursor-pointer transition-all duration-300 hover:scale-110">
-          <div class="media relative">
+          <div class="media relative md:inline-block">
             <img src="~assets/images/image 8.png" alt="" class="relative z-10">
             <div class="bg-gradient-to-t from-black via-transparent to-transparent opacity-75 absolute inset-0 z-20"></div>
             <div class="px-4 py-4 absolute bottom-0 z-30">
@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="mb-8 md:mb-0 px-12 md:px-0 w-full md:w-3/12 transform cursor-pointer transition-all duration-300 hover:scale-110">
-          <div class="media relative">
+          <div class="media relative md:inline-block">
             <img src="~assets/images/image 9.png" alt="" class="relative z-10">
             <div class="bg-gradient-to-t from-black via-transparent to-transparent opacity-75 absolute inset-0 z-20"></div>
             <div class="px-4 py-4 absolute bottom-0 z-30">
@@ -30,8 +30,8 @@
             </div>
           </div>
         </div>
-        <div class="mb-8 md:mb-0 px-12 md:px-0 w-full md:w-3/12 transform cursor-pointer transition-all duration-300 hover:scale-110">
-          <div class="media relative">
+        <div class="mb-8 md:mb-0 px-12 md:px-0 md:inline-block w-full md:w-3/12 transform cursor-pointer transition-all duration-300 hover:scale-110">
+          <div class="media relative md:inline-block">
             <img src="~assets/images/image 10.png" alt="" class="relative z-10">
             <div class="bg-gradient-to-t from-black via-transparent to-gray-400 opacity-75 absolute inset-0 z-20"></div>
             <div class="px-4 py-4 absolute bottom-0 z-30">

@@ -21,7 +21,7 @@
           </div>
           <div class="relative w-full md:w-4/12 font-style-one">
             <div class="relative">
-              <form class="transform translate-y-24 flex flex-col bg-white p-8 pb-40">
+              <form class="transform translate-y-24 flex flex-col bg-white pb-40 p-8 md:p-8">
                 <div class="w-full flex flex-col mb-4">
                   <label class="text-gray-600 mb-1" for="">Activity</label>
                   <input class="bg-gray-200 px-4 py-4" type="text" value="Nature and Adventure"/>
@@ -55,8 +55,8 @@
       </div>
     </div>
     <div class="w-full mt-48 flex items-center flex-col justify-center container mx-auto">
-      <h5 class="font-style-one text-xl text-orange-600 uppercase mb-2">your dreams</h5>
-      <h1 class="font-style-two text-3xl text-center font-semibold mb-12">We Have Few Packages <br> With Friendly Price</h1>
+      <h5 class="font-style-one text-xl text-orange-600 uppercase mb-2" data-aos="slide-up" data-aos-duration="500">your dreams</h5>
+      <h1 class="font-style-two text-3xl text-center font-semibold mb-12" data-aos="slide-up" data-aos-duration="750">We Have Few Packages <br> With Friendly Price</h1>
       <TourItem/>
     </div>
     <ReviewParts/>
