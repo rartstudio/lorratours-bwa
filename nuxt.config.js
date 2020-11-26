@@ -11,6 +11,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap'},
       { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap'},
+      // { rel: 'stylesheet', href:'https://unpkg.com/aos@next/dist/aos.css'},
     ]
   },
 
